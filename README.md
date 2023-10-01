@@ -20,9 +20,8 @@ Below is a list of some of the LeetCode challenges I have solved. You can click 
 
 `TODO: Update list of solved challenges :)`
 
-<!---
-1. [Two Sum](./problems/two-sum/README.md) This is how to do!
---->
+1. [Two Sum](./1_Two_Sum.ts)
+14. [Longest Common Prefix](./14_longest_Common_Prefix.ts)
 
 This list is by no means exhaustive, and I will continue to add more solutions as I progress through LeetCode problems.
 

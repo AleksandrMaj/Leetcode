@@ -18,10 +18,12 @@ LeetCode is a fantastic platform to sharpen your coding skills, and it offers a 
 
 Below is a list of some of the LeetCode challenges I have solved. You can click on each problem to access the solution code and a brief explanation:
 
-`TODO: Update list of solved challenges :)`
-
 1. [Two Sum](./1_Two_Sum.ts)
+13. [Roman To Integer](./13_Roman_to_Integer.java)
 14. [Longest Common Prefix](./14_longest_Common_Prefix.ts)
+20. [Valid Parentheses](./20_Valid_Parentheses.ts)
+21. [Merge Two Sorted Lists](./21_Merge_Two_Sorted_Lists.ts)
+26. [Remove Duplicates From Sorted Array](./26_Remove_Duplicates_from_Sorted_Array.ts)
 
 This list is by no means exhaustive, and I will continue to add more solutions as I progress through LeetCode problems.
 

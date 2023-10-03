@@ -18,12 +18,21 @@ LeetCode is a fantastic platform to sharpen your coding skills, and it offers a 
 
 Below is a list of some of the LeetCode challenges I have solved. You can click on each problem to access the solution code and a brief explanation:
 
-1. [Two Sum](./1_Two_Sum.ts)
-13. [Roman To Integer](./13_Roman_to_Integer.java)
-14. [Longest Common Prefix](./14_longest_Common_Prefix.ts)
-20. [Valid Parentheses](./20_Valid_Parentheses.ts)
-21. [Merge Two Sorted Lists](./21_Merge_Two_Sorted_Lists.ts)
-26. [Remove Duplicates From Sorted Array](./26_Remove_Duplicates_from_Sorted_Array.ts)
+- [1. Two Sum](./1_Two_Sum.ts)
+- [13. Roman To Integer](./13_Roman_to_Integer.java)
+- [14. Longest Common Prefix](./14_longest_Common_Prefix.ts)
+- [20. Valid Parentheses](./20_Valid_Parentheses.ts)
+- [21. Merge Two Sorted Lists](./21_Merge_Two_Sorted_Lists.ts)
+- [26. Remove Duplicates From Sorted Array](./26_Remove_Duplicates_from_Sorted_Array.ts)
+- [66. Plus One](./66_Plus_One.ts)
+- [69. Sqrt(x)](./69_sqrt_x.ts)
+- [234. Palindrome Linked List](./234_Palindrome_Linked_List.ts)
+- [383. Ransom Note](./383_Ransom_Note.ts)
+- [412. Fizz Buzz](./412_Fizz_Buzz.ts)
+- [876. Middle of the Linked List](./876_Middle_of_the_Linked_List.ts)
+- [1337. The K Weakest Rows in a Matrix](./1337_The_K_Weakest_Rows_in_a_Matrix.ts)
+- [1342. Number of Steps to Reduce a Number to Zero](./1342._Number_of_Steps_to_Reduce_a_Number_to_Zero.ts)
+- [1672. Richest Customer Wealth](./1672_Richest_Customer_Wealth.ts)
 
 This list is by no means exhaustive, and I will continue to add more solutions as I progress through LeetCode problems.
 

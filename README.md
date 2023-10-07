@@ -4,11 +4,13 @@ Welcome to my LeetCode Challenges repository! Here, you'll find solutions to var
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Solved Challenges](#solved-challenges)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
+- [LeetCode Challenges](#leetcode-challenges)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Solved Challenges](#solved-challenges)
+  - [How to Use This Repository](#how-to-use-this-repository)
+  - [Acknowledgments](#acknowledgments)
+  - [License](#license)
 
 ## Introduction
 
@@ -24,8 +26,11 @@ Below is a list of some of the LeetCode challenges I have solved. You can click 
 - [20. Valid Parentheses](./20_Valid_Parentheses.ts)
 - [21. Merge Two Sorted Lists](./21_Merge_Two_Sorted_Lists.ts)
 - [26. Remove Duplicates From Sorted Array](./26_Remove_Duplicates_from_Sorted_Array.ts)
+- [27. Remove Element](./27_Remove_Element.cs)
 - [66. Plus One](./66_Plus_One.ts)
 - [69. Sqrt(x)](./69_sqrt_x.ts)
+- [70. Climbing Stairs](./70_Climbing_Stairs.ts)
+- [88. Merge Sorted Array](./88_Merge_Sorted_Array.ts)
 - [234. Palindrome Linked List](./234_Palindrome_Linked_List.ts)
 - [383. Ransom Note](./383_Ransom_Note.ts)
 - [412. Fizz Buzz](./412_Fizz_Buzz.ts)

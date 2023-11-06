@@ -27,6 +27,7 @@ Below is a list of some of the LeetCode challenges I have solved. You can click 
 - [21. Merge Two Sorted Lists](./21_Merge_Two_Sorted_Lists.ts)
 - [26. Remove Duplicates From Sorted Array](./26_Remove_Duplicates_from_Sorted_Array.ts)
 - [27. Remove Element](./27_Remove_Element.cs)
+- [28. Find the Index of the First Occurrence in a String](./28_Find_the_Index_of_the_First_Occurrence_in_a_String.cs)
 - [58. Length of Last Word](./58_Length_of_Last_Word.cs)
 - [66. Plus One](./66_Plus_One.ts)
 - [69. Sqrt(x)](./69_sqrt_x.ts)

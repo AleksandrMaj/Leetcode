@@ -33,6 +33,7 @@ Below is a list of some of the LeetCode challenges I have solved. You can click 
 - [69. Sqrt(x)](./69_sqrt_x.ts)
 - [70. Climbing Stairs](./70_Climbing_Stairs.ts)
 - [88. Merge Sorted Array](./88_Merge_Sorted_Array.ts)
+- [125. Valid Palindrome](./125_Valid_Palindrome.cs)
 - [169. Majority Element](./169_Majority_Element.cs)
 - [234. Palindrome Linked List](./234_Palindrome_Linked_List.ts)
 - [383. Ransom Note](./383_Ransom_Note.ts)

@@ -37,6 +37,7 @@ Below is a list of some of the LeetCode challenges I have solved. You can click 
 - [169. Majority Element](./169_Majority_Element.cs)
 - [234. Palindrome Linked List](./234_Palindrome_Linked_List.ts)
 - [383. Ransom Note](./383_Ransom_Note.ts)
+- [392. Is Subsequence](./392_Is_Subsequence.cs)
 - [412. Fizz Buzz](./412_Fizz_Buzz.ts)
 - [876. Middle of the Linked List](./876_Middle_of_the_Linked_List.ts)
 - [1337. The K Weakest Rows in a Matrix](./1337_The_K_Weakest_Rows_in_a_Matrix.ts)

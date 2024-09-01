@@ -37,6 +37,7 @@ Below is a list of some of the LeetCode challenges I have solved. You can click 
 - [169. Majority Element](./169_Majority_Element.cs)
 - [205. Isomorphic Strings](./205_Isomorphic_Strings.cs)
 - [234. Palindrome Linked List](./234_Palindrome_Linked_List.ts)
+- [290. Word Pattern](./290_Word_Pattern.cs)
 - [383. Ransom Note](./383_Ransom_Note.ts)
 - [392. Is Subsequence](./392_Is_Subsequence.cs)
 - [412. Fizz Buzz](./412_Fizz_Buzz.ts)
